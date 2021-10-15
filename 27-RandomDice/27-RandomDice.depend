@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634303226 source:d:\dev\kelasterbuka\27-randomdice\main.cpp
+	<iostream>
+	<cstdlib>
+
